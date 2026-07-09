@@ -5,7 +5,9 @@
 # X = 'bye'
 # print (X)
 
+
 # ---------------------------- #
+
 
 # print('Hello, what is your name?')
 # name = input()
@@ -23,7 +25,9 @@
 # X = int(num1) + int(num2)
 # print (X)
 
+
 # ---------------------------- #
+
 
 # print (3 > 2)
 
@@ -35,7 +39,9 @@
 
 # print ('hello' == 'Hello')
 
+
 # ---------------------------- #
+
 
 # if True:
 #     print('yes')
@@ -56,4 +62,48 @@
 # else:
 #     print("you're can drive!")
 
+
 # ---------------------------- #
+
+
+# x = 3
+# y = 2
+
+# if x == y or x + y == 5:
+#     print('hello')
+
+# if not(x == y or x + y == 5):
+#     print('hello')
+# else:
+#     print('sad')
+
+# if x == 3:
+#     if y == 2:
+#         print('x = 3, y = 2')
+#     else:
+#         print('x = 3, y != 2')
+# else:
+#     print('x != 3')
+
+
+# ---------------------------- #
+
+
+# for x in range(0,10): # start, stop, step
+#    print(x)
+
+
+# ---------------------------- #
+
+# x = True
+
+# while x:
+#     password = input('Password: ')
+#     if password == 'stop':
+#         break
+
+# y = 0
+
+# while y <= 5:
+#     print(y)
+#     y = y + 1
