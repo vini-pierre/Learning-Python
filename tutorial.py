@@ -95,6 +95,7 @@
 
 # ---------------------------- #
 
+
 # x = True
 
 # while x:
@@ -107,3 +108,58 @@
 # while y <= 5:
 #     print(y)
 #     y = y + 1
+
+
+# ---------------------------- #
+
+
+# fruits = ['apple', 'pear']
+
+# print(fruits)
+
+# fruits.append('banana')
+# fruits.append('strawberry')
+
+# print(fruits)
+
+# fruits[1] = 'melon'
+
+# print(fruits)
+
+# position = (2, 3)
+
+# print(position)
+
+
+# ---------------------------- #
+
+
+# fruits = ['apple', 'banana', 'pears','strawberry','melon']
+
+# for fruit in fruits:
+#     if fruit == 'pears':
+#         print(fruit)
+#     else:
+#         print('not pears')
+
+# for x in range(len(fruits)):
+#     if fruits[x] == 'pears':
+#         print(fruits[x])
+#     else:
+#         print('Not pears')
+
+
+
+# ---------------------------- #
+
+text = input('Input someting: ')
+
+print(text.strip())
+
+print(len(text))
+
+print(text.lower())
+
+print(text.upper())
+
+print(text.split('.'))
